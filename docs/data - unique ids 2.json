@@ -1,0 +1,36 @@
+{
+  "devices": [
+    {
+      "id": "abcdefg",
+      "name": "abcdefgName",
+      "deviceTypeId": "Beweis",
+      "failsafe": true,
+      "tempMin": 5,
+      "tempMax": 2500,
+      "installationPosition": "horizontal",
+      "insertInto19InchCabinet": true,
+      "motionEnable": true,
+      "siplusCatalog": true,
+      "simaticCatalog": true,
+      "rotationAxisNumber": 0,
+      "positionAxisNumber": 0,
+	  "advancedEnvironmentalConditions": false
+    },
+    {
+      "id": "hijkl",
+      "name": "hijkl",
+      "deviceTypeId": "S7_1500",
+      "failsafe": true,
+      "tempMin": 100,
+      "tempMax": 101,
+      "installationPosition": "vertical",
+      "insertInto19InchCabinet": true,
+      "motionEnable": true,
+      "siplusCatalog": false,
+      "simaticCatalog": true,
+      "rotationAxisNumber": 0,
+      "positionAxisNumber": 0,
+      "advancedEnvironmentalConditions": false
+    }
+  ]
+}

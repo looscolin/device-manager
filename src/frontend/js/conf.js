@@ -1,0 +1,1 @@
+config = JSON.parse('{"server" : "https://localhost:7034"}');
